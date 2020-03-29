@@ -1,0 +1,15 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Geral ===================== */
+
+/** Geral >> Main header bar ast container **/
+.main-header-bar .ast-container {
+	background-color: rgb(0, 0, 0) !important;
+}
+
+/** Geral >> Post 146 **/
+#post-146 {
+	background-color: rgb(0, 0, 0) !important;
+}
+
